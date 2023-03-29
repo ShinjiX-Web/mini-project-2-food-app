@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Mini Project 2 App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<img src="https://github.com/ShinjiX-Web/mini-project-2-food-app/blob/main/front.png" alt="react=meals">
 
 ## Available Scripts
 
